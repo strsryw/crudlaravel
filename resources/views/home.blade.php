@@ -14,7 +14,7 @@
             </div>
             <div class="table-responsive">
                 <div class="alert alert-dismissible fade show" role="alert" id="alertDialog" style="display: none">
-                    <div id="alertMessage"><strong>Holy guacamole!</strong> You should check in on some of those fields
+                    <div id="alertMessage"><strong>Holy Molly</strong> You should check in on some of those fields
                         below.
                     </div><button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                 </div>
