@@ -10,6 +10,7 @@
 
 <body>
     <h1>WEDUS GIMANG</h1>
+    <h2>Slug</h2>
 </body>
 
 </html>
